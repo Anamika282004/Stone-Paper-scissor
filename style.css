@@ -1,0 +1,44 @@
+body{background-color: #fff8f8;}
+.wonlost{
+    text-align: center;
+}
+h1{
+    text-align: center;
+}
+.container{
+    display: flex;
+    flex-direction: row;
+    justify-content:center;
+    margin: 20px;
+}
+.marks{
+    display: flex;
+    flex-direction: column;
+    justify-content:center;
+    align-items: center;
+}
+.btn{
+    background-color: white;
+    border-radius: 15px;
+    padding: 10px;
+    font-size: 15px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+.btn:hover{
+    background-color: antiquewhite;
+}
+.btn4{
+    border-radius: 15px;
+    padding: 10px;
+    font-size: 15px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    margin-top: 50px;
+}
+.btn4:hover{
+    background-color: antiquewhite;
+}
+body{
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+}
