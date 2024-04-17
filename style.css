@@ -23,6 +23,7 @@ h1{
     padding: 10px;
     font-size: 15px;
     font-family: Georgia, 'Times New Roman', Times, serif;
+    cursor: pointer;
 }
 .btn:hover{
     background-color: antiquewhite;
